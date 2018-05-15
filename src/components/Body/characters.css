@@ -1,0 +1,30 @@
+.cards {
+    background: #fff;
+    border-radius: 2px;
+    height: 125px;
+    margin: 0.5rem;
+    position: relative;
+    width: 125px;
+    cursor: pointer;
+}
+
+button {
+    margin: 20px 0px 0px 0px;
+}
+
+button:hover {
+    transition: all .2s ease-in-out;
+    transform: scale(1.7);
+    background-image: url("https://scontent-dfw5-1.cdninstagram.com/vp/8a750db663e732a8bc3d47a2265975d3/5B9097F9/t51.2885-15/e35/21434003_1421903841259071_557074158987509760_n.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 3.5px 3.5px 3.5px 3.5px #888888;
+}
+
+.cards > .img-container {
+    height: 100%;
+}
+
+.cards > .img-container >  img {
+    width: 100%;
+}

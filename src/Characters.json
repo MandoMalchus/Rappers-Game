@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "J. Cole",
+    "image": "https://scontent-dfw5-1.cdninstagram.com/vp/b437644e406bfe0a70fb883139b0aedd/5B94015D/t51.2885-15/e35/21147632_151456725437019_4327082785106821120_n.jpg",
+    "catchphrase": "Jermaine's Cole World"
+  },
+  {
+    "id": 2,
+    "name": "NAS",
+    "image": "https://scontent-dfw5-1.cdninstagram.com/vp/d31006354425021b47ac754cbce3065f/5B8E8477/t51.2885-15/e35/19535063_1231469816964659_2877088550233309184_n.jpg",
+    "catchphrase": "Stillmatic Boi!"
+  },
+  {
+    "id": 3,
+    "name": "Kendrick Lamar",
+    "image": "https://scontent-dfw5-1.cdninstagram.com/vp/d68709d06ae54961723e0eb4c842c606/5B8912CD/t51.2885-15/e35/17662115_257444844718633_1116879534923186176_n.jpg",
+    "catchphrase": "Good KiD"
+  },
+  {
+    "id": 4,
+    "name": "Joey Bada$$",
+    "image": "https://scontent-dfw5-1.cdninstagram.com/vp/ce52c00b5a5afcef5638a4de8a0da6c6/5B9232B0/t51.2885-15/e35/20905025_114903072504122_5817643634631114752_n.jpg",
+    "catchphrase": "The New Bad Boy Badass"
+  },
+  {
+    "id": 5,
+    "name": "2 Chainz",
+    "image": "https://scontent-dfw5-1.cdninstagram.com/vp/faaed154c5b4277a3eb780ffe49888a5/5B8BF625/t51.2885-15/e35/21820142_117762965557622_2897590851498672128_n.jpg",
+    "catchphrase": "Titty Boy 2 Chainzzz"
+  },
+  {
+    "id": 6,
+    "name": "Beyonce",
+    "image": "https://scontent-dfw5-1.cdninstagram.com/vp/42475292c72ca990a2224b8dc7de357e/5B9649DB/t51.2885-15/e35/19625014_1663476077004566_7911164772358291456_n.jpg",
+    "catchphrase": "Queen Bey"
+  },
+  {
+    "id": 7,
+    "name": "Rihianna",
+    "image": "https://scontent-dfw5-1.cdninstagram.com/vp/06f1cb915c14add00d7663f1b716797c/5B9A3789/t51.2885-15/e35/16464921_217396452060813_8361861254372917248_n.jpg",
+    "catchphrase": "Ri-Ri bomblclat!"
+  },
+  {
+    "id": 8,
+    "name": "Erykah Badu",
+    "image": "https://scontent-dfw5-1.cdninstagram.com/vp/768e7c70a424ab980aa24c94ad992e91/5B8C6F04/t51.2885-15/e35/18443544_1516658875034176_7927121954547433472_n.jpg",
+    "catchphrase": "Erkah Badu"
+  },
+  {
+    "id": 9,
+    "name": "Snoop Dogg",
+    "image": "https://scontent-dfw5-1.cdninstagram.com/vp/b21109e0def8581bfaece1c013e1c004/5B8B371E/t51.2885-15/s1080x1080/e35/18012044_2146848258875003_6019244589141983232_n.jpg",
+    "catchphrase": "Doggey Style Boi"
+  },
+  {
+    "id": 10,
+    "name": "Tupac",
+    "image": "https://scontent-dfw5-1.cdninstagram.com/vp/5838b5c383ab4ffdcf65f3fd325d8648/5B84BE1D/t51.2885-15/e35/17818320_395018987563601_2051218282546987008_n.jpg",
+    "catchphrase": "Tupac Shakur."
+  },
+  {
+    "id": 11,
+    "name": "Kanye West",
+    "image": "https://scontent-dfw5-1.cdninstagram.com/vp/a3cdf5533b08ee3ee14a25c847aed867/5B8D15FF/t51.2885-15/e35/22280028_398480370554859_1113411469090750464_n.jpg",
+    "catchphrase": "Yeezy Go"
+  },
+  {
+    "id": 12,
+    "name": "Childish Gambino",
+    "image": "https://scontent-dfw5-1.cdninstagram.com/vp/ba866c5a38d889b81d609ee660e1c74e/5B92B2DD/t51.2885-15/e35/19761171_173695219836589_3159434159764537344_n.jpg",
+    "catchphrase": "Childish Gambino"
+  }
+]
